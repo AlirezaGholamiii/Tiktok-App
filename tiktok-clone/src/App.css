@@ -1,0 +1,28 @@
+html{
+    scroll-snap-type: y  mandatory;
+}
+
+.App{
+    height: 100vh;
+    background-color: black;
+    
+    display: grid;
+    place-items: center;
+}
+.App_videos{
+    border-radius: 20px;
+    position: relative;
+    height: 700px;
+    overflow: scroll;
+    width: 500px;
+    scroll-snap-type: y mandatory;
+}
+/*use for removing scrollbar*/
+.App_videos::-webkit-scrollbar{
+    display: none;
+}
+/*use for removing scrollbar*/
+.App_videos{
+    -ms-overflow-style: none;
+    scrollbar-width:  none;
+}
