@@ -1,6 +1,6 @@
 # Tiktok-App
 ### `This is a TikTok Web app created by ReactJS and it hosts by firebase.`
-![Here is the Image](https://imgur.com/a/iWsOP6B)
+![Here is the Image](https://i.imgur.com/f7iDmpb.png)
 
 # Getting Started with Create React App
 
