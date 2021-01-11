@@ -1,7 +1,8 @@
 # Tiktok-App
 ### `This is a TikTok Web app created by ReactJS and it hosts by firebase.`
+## Deployed version : https://tiktok-clone-5ccc4.web.app/
 ![Here is the Image](https://i.imgur.com/f7iDmpb.png)
-
+👉 developed By Alireza Gholami
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
